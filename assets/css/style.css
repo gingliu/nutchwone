@@ -1,3 +1,6 @@
+
+
+
 .top-bar {
     background-color: rgba(0, 0, 0, 0.055);
 }
@@ -48,13 +51,14 @@
 }
 
 .uirecipe,
+.uirecipe-info,
 .ffhkd {
-    padding: 2rem 1rem;
+    padding: 5rem 1rem;
     font-family: 'Karla', sans-serif;
 }
 
 .myspotify {
-    padding: 4rem 0;
+    padding: 5rem 0;
     font-family: 'Karla', sans-serif;
 }
 
@@ -65,6 +69,16 @@
     background-repeat: no-repeat;
     /* background-size: cover; */
     background-image: url("../images/Dolphin.gif");
+
+}
+
+.textbigshot-uirecipe {
+    padding: 0 2rem;
+    font-size: 40px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* background-image: url("../images/Dolphin.gif"); */
 
 }
 
@@ -86,3 +100,37 @@
 #main-footer a:hover{
     color: #919191;
 }
+
+
+
+
+typing {
+    font-size: 40px;
+    color: #1d1d1d;
+    text-transform: lowercase;
+    font-family: 'Karla-Bold', sans-serif;
+  }
+
+typing2 {
+    font-size: 40px;
+    color: #1d1d1d;
+    text-transform: lowercase;
+    font-family: 'Karla', sans-serif;
+  }
+  
+  span2 {
+    border-right: 0.4em solid;
+    animation: caret 1s steps(1) infinite;
+  }
+  
+  @keyframes caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+
+
+
+
+  
