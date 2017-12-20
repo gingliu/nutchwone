@@ -1,0 +1,88 @@
+.top-bar {
+    background-color: rgba(0, 0, 0, 0.055);
+}
+
+.alpha-text{
+    color: rgba(8, 8, 8, 0.459);
+}
+
+
+.hero-section {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* font-family: 'Maitree', serif; */
+    font-family: 'Karla', sans-serif;
+
+    background-image: url("../images/bg-wave.gif");
+    padding: 3rem 1rem;
+    color: rgba(22, 22, 22, 0.938);
+}
+
+.hero-text {
+    padding: 12rem 0;
+}
+
+
+.feature-section {
+    font-family: 'Karla', sans-serif;
+}
+
+
+.uirecipe a {
+    color: #919191;
+    }
+
+.ffhkd
+    a {
+    color: #919191;
+    }
+
+
+.uirecipe a:hover {
+    color:#161616 !important; 
+}
+
+.ffhkd a:hover {
+    color:#161616 !important; 
+}
+
+.uirecipe,
+.ffhkd {
+    padding: 2rem 1rem;
+    font-family: 'Karla', sans-serif;
+}
+
+.myspotify {
+    padding: 4rem 0;
+    font-family: 'Karla', sans-serif;
+}
+
+.textbigshot {
+    padding: 0 2rem;
+    font-size: 48px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("../images/Dolphin.gif");
+
+}
+
+
+#main-footer {
+    background: #1d1d1d;
+    padding: 2rem 0;
+    font-size: 0.8rem;
+    font-family: 'Karla', sans-serif;
+}
+
+#main-footer h6{
+    color:#525252;
+}
+
+#main-footer a {
+    color: #e6e6e6;
+}
+#main-footer a:hover{
+    color: #919191;
+}
